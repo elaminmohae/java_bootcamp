@@ -1,2 +1,3 @@
-aslidhgckyusdafgckdacvjy
-)900
+for (int i = 0; i < 10; i++){
+    System.out.println("wasd")
+}
