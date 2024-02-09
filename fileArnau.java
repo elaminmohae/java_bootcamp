@@ -1,9 +1,2 @@
-ikjkjdasdasdasdasd
-asdas
-sd
-asd
-a
-sd
-asd
-as
-tryArnau
+aslidhgckyusdafgckdacvjy
+)900
